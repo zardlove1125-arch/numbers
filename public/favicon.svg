@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" role="img" aria-label="Numbers">
+  <rect width="32" height="32" fill="#03060a"/>
+  <path d="M0 8h32M0 16h32M0 24h32M8 0v32M16 0v32M24 0v32" stroke="#2ef2c4" stroke-opacity="0.22" stroke-width="1"/>
+  <path d="M7 6v20h4V16l8 10h4V6h-4v10L11 6H7z" fill="#ff2f6d"/>
+  <path d="M9 6v20h4V16l8 10h4V6h-4v10L13 6H9z" fill="#2ef2c4"/>
+  <path d="M8 6v20h4V16l8 10h4V6h-4v10L12 6H8z" fill="#f4fffb"/>
+</svg>
